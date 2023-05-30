@@ -1,0 +1,126 @@
+var
+	numero1, numero2, soma
+inicio
+
+	leia numero1
+	leia numero2
+
+	soma <- numero1 + numero2
+
+	escreva 
+		"O resultado é {soma}"
+
+fim
+
+
+
+
+
+var
+	nome
+inicio
+
+	leia nome
+
+	se nome é Pedro
+		escreva "Bem vindo Pedro"
+		escreva "Bem vindo à CDS"
+		escreva "Voce vai aprender Python"
+
+	senao
+		escreva "bem vindo Meigarom"
+
+
+fim
+
+
+
+
+
+
+
+
+
+
+
+var
+	valor, lista_valores
+inicio
+
+	ate_que lista_valores possui 10 valroes efetue
+		leia valor
+
+		se valor é par
+			insere valor na lista_valoes
+
+	escreva lista_valores
+
+fim
+
+var
+	acucar, farinha, maragarina, ovos, leite, fermento
+	clara, gema
+
+inicio
+
+	separar os ingredientes
+
+	clara <- parte transparente do ovo
+	gema <- amarela ovo
+
+	bater clara em neve
+	misturar as gemas, acuca e margarina
+
+	ate_que a massa esteja homogenea efetue
+		misture os ingredientes
+
+	continue misturando a masa
+
+	acrescente aos poucos o leito e a farinha
+
+	continue misturando a massa
+
+	acrescente a clara em neve
+
+	unte uma forma com manteiga
+
+	passe farinha na forma untada
+
+	despejar a massa na forma
+
+	ligar o forno
+
+	ajustar a temperatura em 180 graus
+
+	aguardar 10 minutos
+
+	colocar o bolo no forno
+
+	aguardar 40 minutos
+
+	ate_que bolo esteja assado efetue
+		aguarde 5 minutos
+
+	escreva "O bolo tá pronto!"
+
+fim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
